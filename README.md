@@ -17,4 +17,4 @@ see: http://www.lookbackon.com/lab/FuzzyLogicSystem/bin-release/FuzzyLogicSystem
 
 * Maven repository
 
-http://repository-godpaper.forge.cloudbees.com/snapshot/com/godpaper/as3/as3ANN/
+http://repository-godpaper.forge.cloudbees.com/snapshot/com/godpaper/as3/as3FuzzyLogicSystem/
